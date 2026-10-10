@@ -142,6 +142,10 @@ if submit:
                     f"Score: {st.session_state.score}"
                 )
 
+
+
+
+
 st.divider()
 st.caption("Built by an AI, debugged by a human. 🎯")
 # FIX: Refactored core logic into logic_utils.py with AI assistance,
